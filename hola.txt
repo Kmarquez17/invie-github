@@ -1,0 +1,11 @@
+ El volumen de la unidad C no tiene etiqueta.
+ El n£mero de serie del volumen es: B4DF-7A37
+
+ Directorio de C:\Users\kmarquez\Desktop\Proyectos\Cursos\git\envie
+
+11/10/2017  04:28 p.m.    <DIR>          .
+11/10/2017  04:28 p.m.    <DIR>          ..
+11/10/2017  04:28 p.m.                 0 hola.txt
+11/10/2017  03:42 p.m.                 0 index.html
+               2 archivos              0 bytes
+               2 dirs  137.459.462.144 bytes libres
